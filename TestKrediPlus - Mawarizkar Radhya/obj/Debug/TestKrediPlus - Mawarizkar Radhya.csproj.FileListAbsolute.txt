@@ -1,0 +1,7 @@
+D:\IGLO\C#\Krediplus\TestKrediPlus\TestKrediPlus - Mawarizkar Radhya\bin\Debug\TestKrediPlus - Mawarizkar Radhya.exe.config
+D:\IGLO\C#\Krediplus\TestKrediPlus\TestKrediPlus - Mawarizkar Radhya\bin\Debug\TestKrediPlus - Mawarizkar Radhya.exe
+D:\IGLO\C#\Krediplus\TestKrediPlus\TestKrediPlus - Mawarizkar Radhya\bin\Debug\TestKrediPlus - Mawarizkar Radhya.pdb
+D:\IGLO\C#\Krediplus\TestKrediPlus\TestKrediPlus - Mawarizkar Radhya\obj\Debug\TestKrediPlus - Mawarizkar Radhya.csprojAssemblyReference.cache
+D:\IGLO\C#\Krediplus\TestKrediPlus\TestKrediPlus - Mawarizkar Radhya\obj\Debug\TestKrediPlus - Mawarizkar Radhya.csproj.CoreCompileInputs.cache
+D:\IGLO\C#\Krediplus\TestKrediPlus\TestKrediPlus - Mawarizkar Radhya\obj\Debug\TestKrediPlus - Mawarizkar Radhya.exe
+D:\IGLO\C#\Krediplus\TestKrediPlus\TestKrediPlus - Mawarizkar Radhya\obj\Debug\TestKrediPlus - Mawarizkar Radhya.pdb
